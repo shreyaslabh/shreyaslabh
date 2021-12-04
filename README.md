@@ -1,6 +1,6 @@
 <a href="https://sites.google.com/view/shreyas-labhsetwar/home"><img alt="Website" src="https://img.shields.io/badge/Website-Shreyas_Labhsetwar-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/shreyaslabh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shreyas_Labhsetwar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/Shreyas-l/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Shreyas-l-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/Shreyas-l/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Shreyasl-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:shreyas.labh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shreyas.labh@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
