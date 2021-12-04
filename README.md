@@ -7,22 +7,15 @@
 <h2> Greetings!</h2> 
 I am Shreyas, a software developer at Circulant Solutions Inc., building enterprise solutions for emerging bio-pharma companies to accelerate their journey in the clinical & commercial space. My interest lies in addressing various high-stake challenges, including agriculture, healthcare, pollution management, hurricane forecasting, and wildlife monitoring with computer science (computational sustainability). I wish to manage high-impact problems with robust and interpretable models that utilize state-of-the-art analytics methods.
 
-<!-- <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-Python, C/C++, Java, JS, C\#, R, Apex, Bash, SQL, Scala, Prolog
+Python, C/C++, Java, JS, C#, R, Apex, Bash, SQL, Scala, Prolog
 - 🌐 &nbsp;
   Scikit, NLTK, SpaCy, TensorFlow, Keras, Django, Flask, ICAP, PySFTP, PySSH, NodeJS, .NET
 - 🔧 &nbsp;
-  Databricks, Kubernetes, Docker, GIT, \LaTeX, Power Automate, Neo4J, MongoDB, PostgreSQL, MySQL
+  Databricks, Kubernetes, Docker, GIT, LaTeX, Power Automate, Neo4J, MongoDB, PostgreSQL, MySQL
 - ⚙️ &nbsp;
   AWS, Azure, GCP, Salesforce, Snowflake, Linux
 <br/>
