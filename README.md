@@ -1,6 +1,7 @@
 <h2> Greetings!
   I'm Shreyas.</h2>
-
+Greetings! 
+I am Shreyas, a Software Developer at Circulant Solutions Inc., building enterprise solutions for emerging bio-pharma companies to accelerate their journey in the clinical & commercial space. My interest lies in addressing various high-stake challenges, including agriculture, healthcare, pollution management, hurricane forecasting, and wildlife monitoring with computer science (computational sustainability). I wish to manage high-impact problems with robust and interpretable models that utilize state-of-the-art analytics methods.
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
