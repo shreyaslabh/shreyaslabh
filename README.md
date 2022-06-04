@@ -5,17 +5,19 @@
 
 
 <h2> Greetings!</h2> 
-I am Shreyas, a software developer at Circulant Solutions Inc., building enterprise solutions for emerging bio-pharma companies to accelerate their journey in the clinical & commercial space. My interest lies in addressing various high-stake challenges, including agriculture, healthcare, pollution management, hurricane forecasting, and wildlife monitoring with computer science (computational sustainability). I wish to manage high-impact problems with robust and interpretable models that utilize state-of-the-art algorithms.
+I am Shreyas, a Tech PM at Circulant Solutions Inc., building enterprise solutions for emerging bio-pharma companies to accelerate their journey in the clinical & commercial space. I am interested in exploring the intersection of Social Computing, Security, and Machine Learning to address high-impact problems with robust and interpretable models that utilize state-of-the-art algorithms.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-Python, C/C++, Java, JS, C#, R, Apex, Bash, SQL, Scala, Prolog
+Python, Java, C/C++, Bash, SQL (MySQL, PostgreSQL), JavaScript, Apex
 - 🌐 &nbsp;
-  Scikit, NLTK, SpaCy, TensorFlow, Keras, Django, Flask, ICAP, PySFTP, PySSH, NodeJS, .NET
+  Batch, EC2, Lambda, S3, Glacier, Dynamo, Glue, Textract, Comprehend, EMR, SageMaker, APIGateway
 - 🔧 &nbsp;
-  Databricks, Kubernetes, Docker, GIT, LaTeX, Power Automate, Neo4J, MongoDB, PostgreSQL, MySQL
+  AAD, Databricks, Data Factory, Az Functions, Cosmos, DevOps, Logic Apps, Graph API, Blob, VM
 - ⚙️ &nbsp;
-  AWS, Azure, GCP, Salesforce, Snowflake, Linux
+  GCP, Salesforce, Docker, K8s, MongoDB, Neo4J, PowerBI, Power Automate, Power Apps
+- ⚙️ &nbsp;
+  React.js, Node.js, Flask, Django, Spring, PyTorch, Tensorflow, SpaCy, BERT, NLTK, Scikit-learn
 <br/>
