@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/shreyaslabh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shreyas_Labhsetwar-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/shreyas.l/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shreyas.l-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:slabhsetwar@ucsd.com"><img alt="Email" src="https://img.shields.io/badge/Email-shreyas.labh@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:slabhsetwar@ucsd.edu"><img alt="Email" src="https://img.shields.io/badge/Email-slabhsetwar@ucsd.edu-blue?style=flat-square&logo=gmail"></a>
 
 
 <h2> Greetings!</h2> 
