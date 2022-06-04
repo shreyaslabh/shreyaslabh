@@ -13,10 +13,10 @@ I am Shreyas, a Tech PM at Circulant Solutions Inc., building enterprise solutio
 Python, Java, C/C++, Bash, SQL (MySQL, PostgreSQL), JavaScript, Apex
 - 🌐 &nbsp;
   Batch, EC2, Lambda, S3, Glacier, Dynamo, Glue, Textract, Comprehend, EMR, SageMaker, APIGateway
-- 🔧 &nbsp;
+- 🌐 &nbsp;
   AAD, Databricks, Data Factory, Az Functions, Cosmos, DevOps, Logic Apps, Graph API, Blob, VM
 - ⚙️ &nbsp;
   GCP, Salesforce, Docker, K8s, MongoDB, Neo4J, PowerBI, Power Automate, Power Apps
-- ⚙️ &nbsp;
+- 🔧 &nbsp;
   React.js, Node.js, Flask, Django, Spring, PyTorch, Tensorflow, SpaCy, BERT, NLTK, Scikit-learn
 <br/>
