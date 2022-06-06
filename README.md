@@ -18,5 +18,5 @@ Python, Java, C/C++, Bash, SQL (MySQL, PostgreSQL), JavaScript, Apex
 - ⚙️ &nbsp;
   GCP, Salesforce, Docker, K8s, MongoDB, Neo4J, PowerBI, Power Automate, Power Apps
 - 🔧 &nbsp;
-  React.js, Node.js, Flask, Django, Spring, PyTorch, Tensorflow, SpaCy, BERT, NLTK, Scikit-learn
+  Node.js, Flask, Django, Spring, PyTorch, Tensorflow, SpaCy, BERT, NLTK, Scikit-learn
 <br/>
