@@ -4,7 +4,7 @@
 
 
 <h2> Greetings!</h2> 
-I am Shreyas, a Tech PM at Circulant Solutions Inc., building enterprise solutions for emerging bio-pharma companies to accelerate their journey in the clinical & commercial space. I am interested in exploring the intersection of Social Computing, Security, and Machine Learning to address high-impact problems with robust and interpretable models that utilize state-of-the-art algorithms.
+I am Shreyas, an SDE Intern at Amazon Lab126!. Previously, as a Tech PM at Circulant Solutions Inc., I built enterprise solutions for emerging bio-pharma companies to accelerate their journey in the clinical & commercial space. I am interested in exploring the intersection of Software Development, Security, and Machine Learning to address high-impact problems with robust and interpretable models that utilize state-of-the-art algorithms.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
